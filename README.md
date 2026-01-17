@@ -110,9 +110,7 @@ Regression line showing the relationship between experience and salary
 The model shows a strong linear relationship between years of experience and salary, indicating that simple linear regression is effective for this dataset.
 
 📁 Project Structure
-├── untitled1.py
-├── salary_data/
-│   └── Salary_dataset.csv
+├── main.py
 ├── README.md
 
 🙌 Author
